@@ -43,5 +43,6 @@
 | [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) | Makes using optifine shaders on Sodium possible |
 | [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton) | Attempts to optimize the Minecraft networking stack |
 
+**Note that this list is still unfinished**
 
 
