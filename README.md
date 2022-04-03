@@ -24,4 +24,8 @@
 | [C2ME](https://www.curseforge.com/minecraft/mc-mods/c2me-fabric) | Improves Minecrafts chunk performance | 
 | [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric) | Adds the ability to search for keybinds using their name |
 | [CraftPresence](https://www.curseforge.com/minecraft/mc-mods/craftpresence) | Customizes the way others see you play Minecraft via Discord's Rich Presence |
-| [
+| [Dark Paintings](https://www.curseforge.com/minecraft/mc-mods/dark-paintings) | Adds several new paintings into Minecraft |
+| [Don't Clear Chat History](https://www.curseforge.com/minecraft/mc-mods/dont-clear-chat-history) | Saves the previously used commands so you're able to use the ⬆ arrow to access the previous command after a disconnect |
+| [Durability Viewer](https://www.curseforge.com/minecraft/mc-mods/giselbaers-durability-viewer) | Shows your item durabilities better than vanilla with small changes |
+| [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) | Makes some block entities use baked block models rather than laggy entity models |
+| [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | Uses async path-tracing to skip rendering Block/Entities that are not visible |
