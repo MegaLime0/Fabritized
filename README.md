@@ -17,4 +17,7 @@
 | [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | Removes the Block Entity Renderer from the bed and replaces it with the default Minecraft model renderer |
 | [Better Thirs Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person) | Makes the minecraft third person better by allowing free rotation without changing the players direction |
 | [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3) |  replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD |
-|
+| [Camera Utils](https://www.curseforge.com/minecraft/mc-mods/camera-utils) | adds convenient features related to the players camera |
+| [Chunky Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator) | Pre-generates chunks, quickly and efficiently |
+| [Clear Despawn](https://www.curseforge.com/minecraft/mc-mods/clear-despawn-fabric) | makes dropped items flash when they're about to de-spawn |
+
