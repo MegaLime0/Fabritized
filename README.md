@@ -8,6 +8,8 @@
 # Downloads
 [![Download from Curseforge](https://cf.way2muchnoise.eu/author/full_Fabritized_downloads.svg)](https://www.curseforge.com/minecraft/modpacks/fabritized)
 
+
+# Mods Included in this Modpack
 | Mods | What they do |
 |------|--------------|
 | ['Slight' Gui Modifications](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications) | Changes the minecraft gui 'slightly' while allowing it to be customized a bit |
