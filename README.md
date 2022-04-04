@@ -40,7 +40,7 @@ MultiMC specific download coming soon
 | [FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders) | Keeps your game responsive in those cases where it has to open something outside of the game, including opening screenshots from chat, links in chat or books, or the resource packs and data packs folders |
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | Reduces the memory usage of Minecraft in a few different ways |
 | [ForgetMeChunk](https://www.curseforge.com/minecraft/mc-mods/forgetmechunk) | Removes a type of light update when unloading chunks. This fixes the large lag spikes you sometimes get when crossing a chunk border |
-| [Inspecto] 
+| [Inspecio](https://www.curseforge.com/minecraft/mc-mods/inspecio/files/3343900) | Adds better item tooltips | 
 | [Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next) | Adds a bunch of useful features revolving around Inventory |
 | [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) | Makes using optifine shaders on Sodium possible |
 | [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton) | Attempts to optimize the Minecraft networking stack |
