@@ -6,7 +6,7 @@
  Im new to all of this so let me know if im doing something wrong or if there is a better way to do it
 
 # Downloads
-[![Download from Curseforge](http://cf.way2muchnoise.eu/author/full_Fabritized_downloads.svg)](https://www.curseforge.com/minecraft/modpacks/fabritized)
+[![Download from Curseforge](http://cf.way2muchnoise.eu/author/full_Fabritized_downloads.svg)](https://www.curseforge.com/minecraft/modpacks/fabritized) [![Available For Versions:](https://cf.way2muchnoise.eu/versions/Fabritized.svg)](https://www.curseforge.com/minecraft/modpacks/fabritized)
 
 [MultiMC Download](https://github.com/Boingy151/Fabritized/releases/tag/MultiMC-1.18.2)
 
