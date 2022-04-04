@@ -8,7 +8,7 @@
 # Downloads
 [![Download from Curseforge](https://cf.way2muchnoise.eu/full_605184_downloads.svg)](https://www.curseforge.com/minecraft/modpacks/fabritized) [![available ](https://cf.way2muchnoise.eu/versions/Fabritized.svg)](https://www.curseforge.com/minecraft/modpacks/fabritized)
 
-[![MultiMC Download](https://avatars.githubusercontent.com/u/5411890?s=200&v=4)](https://github.com/Boingy151/Fabritized/releases/tag/MultiMC-1.18.2)
+[MultiMC Download](https://github.com/Boingy151/Fabritized/releases/tag/MultiMC-1.18.2)
 
 
 # Mods Included in this Modpack
