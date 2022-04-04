@@ -19,7 +19,7 @@ MultiMC specific download coming soon
 | [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) | Makes it easy to see how much hunger and saturation food will give you |
 | [AuthMe](https://www.curseforge.com/minecraft/mc-mods/auth-me) | Allows for easy reauthentication without re-opening the game |
 | [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | Removes the Block Entity Renderer from the bed and replaces it with the default Minecraft model renderer |
-| [Better Thirs Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person) | Makes the minecraft third person better by allowing free rotation without changing the players direction |
+| [Better Third Person](https://www.curseforge.com/minecraft/mc-mods/better-third-person) | Makes the minecraft third person better by allowing free rotation without changing the players direction |
 | [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3) |  Replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD |
 | [Camera Utils](https://www.curseforge.com/minecraft/mc-mods/camera-utils) | Adds convenient features related to the players camera |
 | [Chunky Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator) | Pre-generates chunks, quickly and efficiently |
@@ -40,7 +40,7 @@ MultiMC specific download coming soon
 | [FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders) | Keeps your game responsive in those cases where it has to open something outside of the game, including opening screenshots from chat, links in chat or books, or the resource packs and data packs folders |
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) | Reduces the memory usage of Minecraft in a few different ways |
 | [ForgetMeChunk](https://www.curseforge.com/minecraft/mc-mods/forgetmechunk) | Removes a type of light update when unloading chunks. This fixes the large lag spikes you sometimes get when crossing a chunk border |
-| [Inspectio] 
+| [Inspecto] 
 | [Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next) | Adds a bunch of useful features revolving around Inventory |
 | [Iris Shaders](https://www.curseforge.com/minecraft/mc-mods/irisshaders) | Makes using optifine shaders on Sodium possible |
 | [Krypton](https://www.curseforge.com/minecraft/mc-mods/krypton) | Attempts to optimize the Minecraft networking stack |
