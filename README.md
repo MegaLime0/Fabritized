@@ -11,8 +11,7 @@
 [MultiMC Download](https://github.com/Boingy151/Fabritized/releases/tag/MultiMC-1.18.2)
 
 # How to install
-WIP
-
+Work in progress
 
 # Mods Included in this Modpack
 | Mods | What they do |
