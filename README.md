@@ -21,7 +21,7 @@ Work in progress
 | [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) | Makes it easy to see how much hunger and saturation food will give you |
 | [AuthMe](https://www.curseforge.com/minecraft/mc-mods/auth-me) | Allows for easy reauthentication without re-opening the game |
 | [Better Beds](https://www.curseforge.com/minecraft/mc-mods/better-beds) | Removes the Block Entity Renderer from the bed and replaces it with the default Minecraft model renderer |
-| [~~Better Third Person~~](https://www.curseforge.com/minecraft/mc-mods/better-third-person) | Makes the minecraft third person better by allowing free rotation without changing the players direction |
+| [~~Better Third Person~~](https://www.curseforge.com/minecraft/mc-mods/better-third-person) | **REMOVED FOR NOW!** Makes the minecraft third person better by allowing free rotation without changing the players direction |
 | [BetterF3](https://www.curseforge.com/minecraft/mc-mods/betterf3) |  Replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD |
 | [Camera Utils](https://www.curseforge.com/minecraft/mc-mods/camera-utils) | Adds convenient features related to the players camera |
 | [Chunky Pregenerator](https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator) | Pre-generates chunks, quickly and efficiently |
