@@ -11,7 +11,7 @@
 [MultiMC Download](https://github.com/Boingy151/Fabritized/releases/tag/MultiMC-1.18.2)
 
 # How to install
-Work in progress
+To install this, its required that you have either the [MultiMC](https://multimc.org/) Launcher or the [CurseForge](https://download.curseforge.com/)
 
 # Mods Included in this Modpack
 | Mods | What they do |
