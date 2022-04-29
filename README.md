@@ -13,7 +13,9 @@
 # How to install
 To install this, its required that you have either the [MultiMC](https://multimc.org/) Launcher or the [CurseForge](https://download.curseforge.com/)
 
-## MultiMC
+### CurseForge
+
+wip
 
 # Mods Included in this Modpack
 | Mods | What they do |
