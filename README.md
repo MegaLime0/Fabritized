@@ -40,7 +40,7 @@ wip
 | [Enhanced Block Entities](https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities) | Makes some block entities use baked block models rather than laggy entity models |
 | [Entity Culling](https://www.curseforge.com/minecraft/mc-mods/entityculling) | Uses async path-tracing to skip rendering Block/Entities that are not visible |
 | [Entity View Distance](https://www.curseforge.com/minecraft/mc-mods/entity-view-distance) | Allows you to modify distance in which entities become visible |
-| [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) | Reduces unnecessary GPU and CPU load by reducing the frame rate automatically when the client window is inactive or you are not operating the Minecraft for a certain period of time |
+| [FPS Reducer](https://www.curseforge.com/minecraft/mc-mods/fps-reducer) | Reduces unnecessary GPU and CPU load by reducing the frame rate automatically when the client window is inactive or you are not inactive in Minecraft for a certain period of time |
 | [Fabrishot](https://www.curseforge.com/minecraft/mc-mods/fabrishot) | Allows taking large screenshots |
 | [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight-fabric) | Lets you see much further in already visited chunks than the servers chunk distance |
 | [FastOpenLinksAndFolders](https://www.curseforge.com/minecraft/mc-mods/fastopenlinksandfolders) | Keeps your game responsive in those cases where it has to open something outside of the game, including opening screenshots from chat, links in chat or books, or the resource packs and data packs folders |
